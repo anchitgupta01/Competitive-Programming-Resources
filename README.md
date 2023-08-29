@@ -81,6 +81,14 @@
 - [ICPC](https://icpc.global/)
 > The ICPC formerly known as ACM-ICPC (Association for Computing Machinery - International Collegiate Programming Contest) is considered as the "Olympics of Programming Competitions". It is quite simply, the oldest, largest, and most prestigious programming contest in the world. This contest is for students only. Students from same college may form team of 3(reqiured) along with 1 reserve(optional) and with a coach from the faculty member. Contestants advance through two online-hosted rounds to compete at the annual ICPC Finals that is held at a different international sites each year. Further details are [here](https://icpc.global/regionals/rules/).
 
+## other competitions
+- [MLH fellowship](https://fellowship.mlh.io/#programs)
+> It is 12-week remote internship program where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies. Learn through action, not observation. Our approach blends enjoyable education with hands-on experience guided by mentors. Gain real-world skills by contributing to impactful projects sourced from corporate partners—be it open-source enhancements or new tech. Earn while learning with an educational stipend, investing in your future. Join a community of like-minded peers and mentors for support.
+
+- [github octernship ](https://education.github.com/globalcampus/octernships)
+> GitHub Octernships program connects students with industry partners in paid professional experiences and mentorship on open source and software development projects.
+ 
+
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/Competitive-Programming-Resources/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/Competitive-Programming-Resources"/>
